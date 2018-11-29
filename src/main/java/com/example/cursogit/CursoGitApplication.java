@@ -1,0 +1,12 @@
+package com.example.cursogit;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CursoGitApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(CursoGitApplication.class, args);
+    }
+}
